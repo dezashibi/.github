@@ -1,10 +1,11 @@
-# Hey, I'm Cococry 👋
-I like programming, espacially in System 
-Languages. I don't do coding as a job.
-I also like linux. 
+# Hey, Navid's here 👋
+I develop system software
 
 ## Here are my stats 🚀
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knavels)](https://github.com/anuraghazra/github-readme-stats)
 
-## My skills 💪
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,csharp,,python)](https://skillicons.dev)
+## My skills 😏
+- Mainly
+- [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+- Also
+- [![My Skills](https://skillicons.dev/icons?i=go,cs,python)](https://skillicons.dev)
