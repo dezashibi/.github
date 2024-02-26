@@ -9,4 +9,4 @@ I develop system software, programming languages, parsers, compilers.
 ![My Skills](https://skillicons.dev/icons?i=rust,ts,js,svelte,tailwind,phaser)
 
 ### Also experienced in
-![My Skills](https://skillicons.dev/icons?i=c,cpp,go,cs,python)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,go,cs,python,unrealengine,raylib)
