@@ -6,10 +6,7 @@ I develop system software, programming languages, parsers, compilers.
 
 ## My skills 😏
 ### My daily drivers
-[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-also
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts)]
 
 ### Also experienced in
-[![My Skills](https://skillicons.dev/icons?i=c,go,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,cs,python)]
