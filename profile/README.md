@@ -2,7 +2,7 @@
 I develop system software, programming languages, parsers, compilers.
 
 ## Here are my stats 🚀
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knavels)](https://github.com/anuraghazra/github-readme-stats)
+[![Knavels's GitHub stats](https://github-readme-stats.vercel.app/api?username=knavels)](https://github.com/knavels)
 
 ## My skills 😏
 ### My daily drivers
